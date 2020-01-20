@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Андрей Сигаренко](https://up.htmlacademy.ru/htmlcss/27/user/1283675).
+* Наставник: [Мария Чернова](https://htmlacademy.ru/profile/id49571).
 
 ---
 
